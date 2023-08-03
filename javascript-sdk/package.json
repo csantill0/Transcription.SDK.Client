@@ -1,0 +1,15 @@
+{
+  "name": "transcription-sdk",
+  "version": "1.0.8",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "transcription",
+    "speech"
+  ],
+  "author": "Screevo",
+  "license": "ISC"
+}
