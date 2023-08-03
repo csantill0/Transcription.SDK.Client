@@ -1,5 +1,5 @@
 
-# Screevo Transcription SDK v1.0.8
+# Screevo Transcription SDK
 
 Screevo is the AI-powered platform to optimize, manage and supervise your speech-related services, making them more cost-efficient and hassle-free.
 
