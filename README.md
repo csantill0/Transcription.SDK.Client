@@ -1,4 +1,4 @@
-# Screevo Transcription SDK v1.0.8
+# Screevo Transcription SDK
 
 The Gateway for your transcription services.
 
